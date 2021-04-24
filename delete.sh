@@ -32,4 +32,5 @@
 
 5d=$(aws ec2 unauthorize-security-group-ingress --group-name IT --protocol tcp --port 80 --cidr-block 10.1.2.0/24)
 
+Uninstall=$($1a $1b $2a $2b $3a $3b $3c $3d $4a $4b $4c $5a $5b $5c $5d) 
 exit 0 
