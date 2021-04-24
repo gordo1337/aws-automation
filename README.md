@@ -29,7 +29,7 @@
 #   external while the IT subnet instance             #
 #   should be accessible on port                      #
 #   80 and requires Amazon Elastic IP.                #
-#   You are asked to help the organization            #  
+#   You are asked to help the organization            #
 #   to automate the set-up process using a            #
 #   shell script and                                  #
 #   write a short report about                        #
@@ -55,7 +55,7 @@
 #{---------------------------------------------------}#
 #     "Insert key here"                               #
 #{---------------------------------------------------}#
-#      where you can input your aws cli  key.         # 
+#      where you can input your aws cli  key.         #
 #{---------------------------------------------------}#
 #######################################################
 #                                                     #
