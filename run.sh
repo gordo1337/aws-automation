@@ -69,7 +69,7 @@ fi
 #CREATING ROUTE TABLE TO VPC ID 
 EC2_ROUTE_TABLE=$(aws ec2 create-route-table --vpc-id "$EC2_VPC_ID" )	
 
-EC2_ROUTE=$(aws ec2 create-route --route-table-id "$EC2_ROUTE_TABLE" --destination-cidr-block 10.1.0.0/16 --gateway-id "$EC2_IGW")
+EC2_ROUTE=$(aws ec2 create-route --route-table-id "$EC2_ROUTE_TABLE" --destination-cidr-block 0.0.0.0/0 --gateway-id "$EC2_IGW")
 
 
 #Creating subnet
