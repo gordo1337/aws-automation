@@ -1,3 +1,12 @@
+(Delete.sh = Erase everything)
+(Mkdir.sh = makes the directorys and files)
+(Run.sh = runs the whole automation)
+(Lazyfuck.sh = is mkdir.sh + Run.sh)
+
+
+
+
+
 #######################################################
 # This is an automation of a project i did in school. # 
 #######################################################
