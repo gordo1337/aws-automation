@@ -1,7 +1,14 @@
-(Delete.sh = Erase everything)
-(Mkdir.sh = makes the directorys and files)
-(Run.sh = runs the whole automation)
-(Lazyfuck.sh = is mkdir.sh + Run.sh)
+(Delete.sh=
+erase everything)
+
+(Mkdir.sh=
+makes the directorys and files)
+
+(Run.sh=
+runs the whole automation)
+
+(Lazyfuck.sh=
+is mkdir.sh + Run.sh)
 
 
 
